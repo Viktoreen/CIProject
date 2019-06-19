@@ -24,6 +24,6 @@ pipeline {
             steps {
                 sh 'npm run deploy'
             }
-        }        
-    }
+        }
+    }        
 }
